@@ -1,2 +1,2 @@
-# Life Insurance Custmer Churn 
+# Life Insurance Coustmer Churn 
 Datascience Project Portifolio - Life insurance Dataset Churn
